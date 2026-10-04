@@ -65,4 +65,5 @@ error(['Could not find ' sentinel '.  Expected it inside your clone of ' ...
        'SIO221a_Github_code, next to mha_code.']);
 end
 
-%comment
+%comment 
+% test
